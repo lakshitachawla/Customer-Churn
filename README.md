@@ -1,4 +1,4 @@
-# Customer Churn Prediction: A Telecom Case Study
+# Customer Churn Prediction: Telecom Company
 
 ## 1. Introduction
 
