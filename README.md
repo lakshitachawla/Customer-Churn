@@ -72,6 +72,5 @@ This project provides the telecom company with a powerful tool to:
 
 ## 9. Contact
 
-[Your Name]
-[Your LinkedIn Profile URL (Optional)]
-[Your Email Address (Optional)]
+Lakshita Chawla 
+https://www.linkedin.com/in/lakshita-chawla2408/
