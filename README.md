@@ -30,7 +30,7 @@ The dataset was confirmed to be clean with no missing values, and `TotalAmount` 
 The project followed a standard machine learning workflow:
 1.  **Data Loading & Initial Inspection:** Loaded the dataset and performed initial checks on structure and data types.
 2.  **Exploratory Data Analysis (EDA):** Performed in-depth analysis of feature distributions, relationships, and their correlation with the `Churn` target variable using various visualizations.
-3.  **Data Preprocessing:** Handled categorical feature encoding (e.g., One-Hot Encoding for nominal variables) and feature scaling for numerical attributes. Addressed the class imbalance inherent in churn data (techniques like SMOTE or class weighting would be considered for model training).
+3.  **Data Preprocessing:** Handled missing values and duplicates to ensure data quality.
 4.  **Model Selection & Training:** Explored various classification algorithms suitable for churn prediction (e.g., Logistic Regression, Tree-based models like RandomForest or XGBoost). A pipeline was established for streamlined preprocessing and model application.
 5.  **Model Evaluation:** Assessed model performance using appropriate metrics beyond just accuracy, such as Precision, Recall, F1-score, and ROC AUC, especially vital for imbalanced datasets.
 
