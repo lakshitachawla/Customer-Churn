@@ -58,7 +58,7 @@ This project provides the telecom company with a powerful tool to:
     ```bash
     pip install pandas numpy matplotlib seaborn scikit-learn
     ```
-3.  **Place your dataset file** (`WA_Fn-UseC_-Telco-Customer-Churn.csv` or your actual dataset name) in the same directory as the Jupyter Notebook.
+3.  **Place your dataset file** in the same directory as the Jupyter Notebook.
 4.  **Open the Jupyter Notebook** (`your_project_notebook_name.ipynb`) in JupyterLab or Jupyter Notebook.
 5.  **Run all cells sequentially** to execute the data loading, EDA, preprocessing, model training, and evaluation steps.
 
